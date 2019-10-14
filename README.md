@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wajahatmakki/Test_project/_apis/build/status/wmakki10.Test?branchName=master)](https://dev.azure.com/wajahatmakki/Test_project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
